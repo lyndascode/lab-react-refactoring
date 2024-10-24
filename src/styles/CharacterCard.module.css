@@ -1,0 +1,19 @@
+.ctn {
+  border: 1px solid black;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  display: grid;
+  grid-template: auto auto / 1fr;
+  width: max-content;
+}
+
+.img {
+  width: 300px;
+  display: block;
+  border-bottom: 1px solid black;
+  border-radius: 12px 12px 0 0;
+}
+
+.content {
+  padding: 1rem;
+}

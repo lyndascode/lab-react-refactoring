@@ -1,0 +1,4 @@
+.listCtn {
+  display: grid;
+  grid-template: auto / repeat(5, 1fr);
+}
