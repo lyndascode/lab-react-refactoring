@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Lab: Refactoring to Functional Components and Migrating React Router DOM
+# Lab | Refactoring to Functional Components and Migrating React Router DOM
 
 ### Introduction
 
@@ -27,13 +27,7 @@ After completing this lab, you will be able to:
   git push origin master
   ```
 
-- Create a Pull Request so your TAs can check your work.
-
-When making a pull request in pair-programming:
-`MIA-PTWD-student1,student2-nameOfTheExercise`
-
-When making a pull request in individual-programming:
-`MIA-PTWD-student-nameOfTheExercise`
+- Create a Pull Request and submit it to the submission field in Student Portal.
 
 ## Introduction
 
@@ -43,13 +37,13 @@ To take it a step further, you'll also migrate React Router DOM from version 5 t
 
 The skills you will learn here are crucial as you continue building modern, scalable web applications.
 
-### Starter Code
+## Starter Code
 
 The starter code provided contains a skeleton of a basic React app. This app includes multiple class-based components and uses React Router DOM version 5. Your task will be to refactor the components and upgrade the routing to the latest standards.
 
-### Iterations
+## Iterations
 
-#### Iteration 1: Refactor to Functional Components
+### Iteration 1: Refactor to Functional Components
 
 In this iteration, you are expected to:
 
@@ -57,7 +51,7 @@ In this iteration, you are expected to:
 - Use `useState` for state management where applicable.
 - Use `useEffect` for lifecycle methods such as `componentDidMount` and `componentDidUpdate`.
 
-#### Iteration 2: Migrate React Router DOM v5 to v6
+### Iteration 2: Migrate React Router DOM v5 to v6
 
 Once the components are refactored to functional components, it's time to upgrade the routing system. In this iteration, you will:
 
@@ -66,6 +60,6 @@ Once the components are refactored to functional components, it's time to upgrad
 
 You can refer to the official [React Router DOM v6 migration guide](https://reactrouter.com/en/main/upgrading/v5) to help you through the changes.
 
----
+<br>
 
-Happy coding! ❤️
+Happy coding! :heart:
